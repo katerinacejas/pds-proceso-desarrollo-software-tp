@@ -4,3 +4,10 @@ Es el backend de un sistema de gestión de partidos. Los jugadores pueden crear 
 
 Realizado en java. 
 Arquitectura MVC con DTOs, DAOs y con base de datos simulada en memoria.
+Patrones utilizados: 
+- Strategy
+- Adapter
+- Singleton
+- State
+- Factory Method
+- Observer
