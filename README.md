@@ -1,4 +1,5 @@
-# proceso-de-desarrollo-tp
+# TP materia Proceso de Desarrollo de Software (PDS) de UADE 2025
 
-### LOS METODOS QUE ESTÁN EN VERDE EN EL DIAGRAMA ES PORQUE YA ESTAN TERMINADOS EN CODIGO
-### LOS QUE ESTAN EN ROSITA ES PORQUE AUN LE FALTA TERMINAR
+Es el backend de un sistema de gestión de partidos. Los jugadores pueden crear partidos de diversos deportes, unirse a otros partidos, dejar reseñas sobre el mismo, coordinar la confirmación y el juego, recibir notificaciones push o por email sobre el estado de sus partidos.
+
+Realizado en java. 
